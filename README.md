@@ -1,2 +1,6 @@
 # ai-drone-rescue
-AI-powered rescue drone featuring real-time face and motion detection. Integrated two-way audio communication with victims via onboard microphones and speakers. Operates independently of cellular networks using RF/HAM radio modules and encrypted channels. Designed for critical rescue missions in remote or disaster-affected areas.
+During natural disasters like floods or landslides, rescue teams often face blocked roads, poor visibility, and no mobile networks, making it hard to locate or communicate with trapped victims. Traditional rescue drones lack real-time communication and smart detection capabilities.
+This project introduces an AI-powered quadcopter drone with autonomous GPS navigation, real-time video streaming, and a HAM radio-based two-way voice system. It can detect human presence, relay live footage, and talk to victims even in remote or network-dead zones.
+The system enhances rescue efficiency, improves safety for responders, and helps save lives faster during emergencies.
+
+
